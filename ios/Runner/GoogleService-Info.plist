@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>778771876175-42i3u5iakj4lrgs1kfmh14uc2n8vv9ov.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.778771876175-42i3u5iakj4lrgs1kfmh14uc2n8vv9ov</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAUtpws0z5oqFGklokv6OFCj1BwuIz0LVk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>778771876175</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.zoomer.tetatet</string>
+	<key>PROJECT_ID</key>
+	<string>tetatet-e2311</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tetatet-e2311.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:778771876175:ios:4082a7d748d33803b81d3a</string>
+	<key>DATABASE_URL</key>
+	<string>https://tetatet-e2311-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

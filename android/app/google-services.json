@@ -1,0 +1,155 @@
+{
+  "project_info": {
+    "project_number": "778771876175",
+    "firebase_url": "https://tetatet-e2311-default-rtdb.firebaseio.com",
+    "project_id": "tetatet-e2311",
+    "storage_bucket": "tetatet-e2311.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778771876175:android:fa6d17b072f2dd59b81d3a",
+        "android_client_info": {
+          "package_name": "android.zoomer.tetatet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778771876175-idgaai64bt3i36fdh7fb6552lrc63lnl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgcjN0DCPj39BGYGJI1UsM2arAqAx4wTQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778771876175-idgaai64bt3i36fdh7fb6552lrc63lnl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "778771876175-42i3u5iakj4lrgs1kfmh14uc2n8vv9ov.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.zoomer.tetatet"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778771876175:android:6765fcbce0e629bcb81d3a",
+        "android_client_info": {
+          "package_name": "com.app.tetatet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778771876175-idgaai64bt3i36fdh7fb6552lrc63lnl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgcjN0DCPj39BGYGJI1UsM2arAqAx4wTQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778771876175-idgaai64bt3i36fdh7fb6552lrc63lnl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "778771876175-42i3u5iakj4lrgs1kfmh14uc2n8vv9ov.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.zoomer.tetatet"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778771876175:android:9a63e6db75e2ba48b81d3a",
+        "android_client_info": {
+          "package_name": "com.example.tetatet_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778771876175-idgaai64bt3i36fdh7fb6552lrc63lnl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgcjN0DCPj39BGYGJI1UsM2arAqAx4wTQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778771876175-idgaai64bt3i36fdh7fb6552lrc63lnl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "778771876175-42i3u5iakj4lrgs1kfmh14uc2n8vv9ov.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.zoomer.tetatet"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778771876175:android:602b098490979f59b81d3a",
+        "android_client_info": {
+          "package_name": "com.flutter.tetatet_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778771876175-idgaai64bt3i36fdh7fb6552lrc63lnl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgcjN0DCPj39BGYGJI1UsM2arAqAx4wTQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778771876175-idgaai64bt3i36fdh7fb6552lrc63lnl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "778771876175-42i3u5iakj4lrgs1kfmh14uc2n8vv9ov.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.zoomer.tetatet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
